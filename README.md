@@ -1,58 +1,124 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/keshavgangwar/" target="_blank"> Keshav Gangwar </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<!DOCTYPE html>
+<html lang="en">
 
-- 🚀 An Enthusiastic Learner | Always avid to learn new Skills everyday
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keshav Gangwar - Full Stack Developer</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            text-align: center;
+            margin: 50px;
+        }
 
-- 💬 Ask me about **Web Development, Python, DBMS, MySQL**
+        h1 {
+            font-size: 2.5em;
+            color: #0357F7;
+        }
 
-- 👨‍💻 Check out my personal portfolio : **<a href="#" target="_blank">Portfolio</a>**
+        h3 {
+            font-size: 1.5em;
+            margin-top: -10px;
+            color: #0357F7;
+        }
 
-- 😄 Pronouns: He/His
+        a {
+            text-decoration: none;
+            color: #0357F7;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/keshavgangwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gangwarkeshav3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/me.keshavgangwar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</div>
+        a:hover {
+            text-decoration: underline;
+        }
 
-<h3 align="left">Web Tech Stack :</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<br>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</div>
+        .connect-icons {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
 
-<h3 align="left">Languages :</h3>
-<div align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</div>
+        .web-tech-stack,
+        .languages,
+        .databases,
+        .hosting {
+            margin-top: 30px;
+        }
 
-<h3 align="left">Databases :</h3>
-<div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
+        .badge {
+            margin: 5px;
+        }
+    </style>
+</head>
 
+<body>
+    <h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/keshavgangwar/" target="_blank"> Keshav Gangwar </a></h1>
+    <h3> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-<h3 align="left">Hosting :</h3>
-<div align="left">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div>
+    <p>🚀 An Enthusiastic Learner | Always avid to learn new Skills everyday</p>
+    <p>💬 Ask me about <strong>Web Development, Python, DBMS, MySQL</strong></p>
+    <p>👨‍💻 Check out my personal portfolio : <a href="#" target="_blank">Portfolio</a></p>
+    <p>😄 Pronouns: He/His</p>
+
+    <div class="connect-icons">
+        <a href="https://www.linkedin.com/in/keshavgangwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:gangwarkeshav3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.instagram.com/me.keshavgangwar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+        <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    </div>
+
+    <div class="web-tech-stack">
+        <h3>Web Tech Stack :</h3>
+        <div>
+            <span class="badge">HTML5</span>
+            <span class="badge">CSS3</span>
+            <span class="badge">JavaScript</span>
+            <span class="badge">jQuery</span>
+            <span class="badge">TailwindCSS</span>
+            <span class="badge">Bootstrap</span>
+            <span class="badge">Sass</span>
+        </div>
+        <br>
+        <div>
+            <span class="badge">Python</span>
+            <span class="badge">NodeJS</span>
+            <span class="badge">ExpressJS</span>
+            <span class="badge">React</span>
+            <span class="badge">Redux</span>
+            <span class="badge">NextJS</span>
+        </div>
+    </div>
+
+    <div class="languages">
+        <h3>Languages :</h3>
+        <div>
+            <span class="badge">JavaScript</span>
+            <span class="badge">Python</span>
+            <span class="badge">C++</span>
+        </div>
+    </div>
+
+    <div class="databases">
+        <h3>Databases :</h3>
+        <div>
+            <span class="badge">MySQL</span>
+            <span class="badge">MongoDB</span>
+            <span class="badge">SQLite</span>
+            <span class="badge">PostgreSQL</span>
+        </div>
+    </div>
+
+    <div class="hosting">
+        <h3>Hosting :</h3>
+        <div>
+            <span class="badge">Vercel</span>
+            <span class="badge">Netlify</span>
+        </div>
+    </div>
+</body>
+
+</html>
