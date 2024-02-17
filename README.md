@@ -56,3 +56,6 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=keshavgangwar&theme=dark&border_radius=10&card_width=500" alt="KeshavGangwar" /></a>
+</div>
