@@ -63,5 +63,5 @@
   </tr>
 </table>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=keshavgangwar&theme=dark&border_radius=10&card_width=500" alt="KeshavGangwar" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=keshavgangwar&theme=dark&border_radius=10&card_width=500" alt="KeshavGangwar" /></p>
 </div>
