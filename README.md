@@ -109,7 +109,7 @@
       </td>
       <td>
         <img
-          src="https://github-readme-stats-pied-two-73.vercel.app/api/top-langs/?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          src="https://github-readme-stats-pied-two-73.vercel.app/api/top-langs/?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0"
           alt="Keshav Gangwar Top Languages"
         />
       </td>
