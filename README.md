@@ -11,12 +11,9 @@
 </h3>
 
 - 🚀 An Enthusiastic Learner | Always avid to learn new skills every day.
-
 - 💬 Ask me about **Software Development, Python, DBMS, MySQL**
-
 - 👨‍💻 Check out my personal portfolio:
   **<a href="https://keshavcodes.netlify.app/" target="_blank">Portfolio</a>**
-
 - 😄 Pronouns: He/Him
 
 ---
@@ -61,7 +58,7 @@
 
 ---
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -99,18 +96,15 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics & Activity</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=KeshavGangwar&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KeshavGangwar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="./github-metrics.svg"
+    alt="Keshav Gangwar GitHub Metrics"
+    width="100%"
+  />
+</p>
 
 ---
 
