@@ -98,13 +98,24 @@
 
 <h2 align="center">📊 GitHub Statistics & Activity</h2>
 
-<p align="center">
-  <img
-    src="./github-metrics.svg"
-    alt="Keshav Gangwar GitHub Metrics"
-    width="100%"
-  />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats-pied-two-73.vercel.app/api?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+          alt="Keshav Gangwar GitHub Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats-pied-two-73.vercel.app/api/top-langs/?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          alt="Keshav Gangwar Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
