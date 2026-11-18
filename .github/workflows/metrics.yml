@@ -13,6 +13,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
@@ -20,14 +21,16 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
+          # GitHub authentication
           token: ${{ secrets.METRICS_TOKEN }}
           user: keshavgangwar
+
+          # General configuration
           template: classic
           base: header, activity, community, repositories, metadata
           filename: github-metrics.svg
           config_timezone: Asia/Kolkata
-
-          
+          config_display: large
 
           # Language analysis
           plugin_languages: yes
@@ -35,20 +38,17 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: lines, percentage
-
-          # Repository analysis limits
           plugin_languages_analysis_timeout: 30
           plugin_languages_analysis_timeout_repositories: 10
-
-          # Language categories
           plugin_languages_categories: data, markup, programming
 
-          # Match commits authored by your GitHub account
-          commits_authoring: keshavgangwar
-
-
+          # Contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+          # Achievements
           plugin_achievements: yes
           plugin_achievements_display: compact
+
+          # Fail if a plugin encounters an error
+          plugins_errors_fatal: yes
