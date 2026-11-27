@@ -46,7 +46,9 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%#282828"/>
-  <img alt="Next.JS" src="https://img.shields.io/badge/Next%20Js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%000000"/>
+  <img alt="React" src="https://img.shields.io/badge/Next%20Js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%000000"/>
+
+  
 
   
   <br/>
