@@ -83,6 +83,7 @@
 <div align="left">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/render-000000?style=for-the-badge&logo=render&logoColor=white"/>
 </div>
 
 ---
